@@ -26,3 +26,5 @@ jobs:
             -Dsonar.projectKey="NicolasGras_angular-app"
             -Dsonar.organization="nicolasgras"
             -Dsonar.scm.provider=git
+            -Dsonar.host.url="https://sonarcloud.io"
+            
